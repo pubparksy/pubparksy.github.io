@@ -5,6 +5,7 @@
 #   twitter: {twitter_of_author}
 #   url: {homepage_of_author}
 # -------------------------------------
+
 Mary:
   name: Mary
   twitter: <twitter_of_author>
