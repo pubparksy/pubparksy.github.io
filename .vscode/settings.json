@@ -26,5 +26,13 @@
   // Run tasks in macOS
   "terminal.integrated.profiles.osx": {
     "zsh": { "path": "/bin/zsh", "args": ["-l", "-i"] }
-  }
+  },
+  "java.project.sourcePaths": [
+    "백준/Bronze/29729. 가변 배열",
+    "백준/Bronze/13322. 접두사 배열"
+  ],
+  "java.project.referencedLibraries": [],
+  "editor.accessibilityPageSize": 15,
+  "terminal.integrated.accessibleViewFocusOnCommandExecution": false,
+  "editor.fontFamily": "MesloLGS NF, Menlo, Monaco, 'Courier New', monospace"
 }
