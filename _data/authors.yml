@@ -5,6 +5,10 @@
 #   twitter: {twitter_of_author}
 #   url: {homepage_of_author}
 # -------------------------------------
+Mary:
+  name: Mary
+  twitter: <twitter_of_author>
+  url: <homepage_of_author>
 
 cotes:
   name: Cotes Chung
@@ -15,8 +19,3 @@ sille_bille:
   name: Dinesh Prasanth Moluguwan Krishnamoorthy
   twitter: dinesh_MKD
   url: https://github.com/SilleBille/
-
-Mary:
-  name: Mary
-  twitter: <twitter_of_author>
-  url: <homepage_of_author>
