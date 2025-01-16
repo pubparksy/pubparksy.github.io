@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Mary # the main title
 
-tagline: 스스로를 위한 기술 기록 블로그  # it will display as the subtitle
+tagline: 기록  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -29,7 +29,7 @@ github:
   username: pubparksy # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: mary # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,8 +38,8 @@ social:
   email: pubparksy@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/mary # change to your Twitter homepage
+    - https://github.com/pubparksy # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username

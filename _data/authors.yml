@@ -8,8 +8,8 @@
 
 Mary:
   name: Mary
-  twitter: <twitter_of_author>
-  url: <homepage_of_author>
+  twitter: mary
+  url: https://github.com/pubparksy.github.io/
 
 cotes:
   name: Cotes Chung
