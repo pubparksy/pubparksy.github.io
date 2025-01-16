@@ -52,9 +52,9 @@ notification:
 # ----- Posts related labels -----
 
 post:
-  written_by: By
-  posted: 게시
-  updated: 업데이트
+  written_by: 👤
+  posted: 📅
+  updated: Updated
   words: 단어
   pageview_measure: 조회
   read_time:

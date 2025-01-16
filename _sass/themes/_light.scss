@@ -7,6 +7,7 @@
   /* Common color */
   --text-color: #34343c;
   --text-muted-color: #757575;
+  --text-muted-color2: #051090;
   --text-muted-highlight-color: inherit;
   --heading-color: #2a2a2a;
   --label-color: #585858;
@@ -37,7 +38,7 @@
   --site-subtitle-color: #717171;
   --sidebar-bg: #f6f8fa;
   --sidebar-border-color: #efefef;
-  --sidebar-muted-color: #545454;
+  --sidebar-muted-color: #ffffff;
   --sidebar-active-color: #1d1d1d;
   --sidebar-hover-bg: rgb(223, 233, 241, 0.64);
   --sidebar-btn-bg: white;
@@ -62,13 +63,13 @@
   --btn-share-color: gray;
   --btn-share-hover-color: #0d6efd;
   --card-bg: white;
-  --card-hovor-bg: #e2e2e2;
+  --card-hovor-bg: #727272;
   --card-shadow: rgb(104, 104, 104, 0.05) 0 2px 6px 0,
-    rgba(211, 209, 209, 0.15) 0 0 0 1px;
+    rgba(211, 209, 209, 0.35) 0 0 0 1px;
   --footnote-target-bg: lightcyan;
   --tb-odd-bg: #fbfcfd;
   --tb-border-color: #eaeaea;
-  --dash-color: silver;
+  --dash-color: rgb(233, 233, 233);
   --kbd-wrap-color: #bdbdbd;
   --kbd-text-color: var(--text-color);
   --kbd-bg-color: white;
@@ -131,7 +132,8 @@
   .highlight,
   .highlight .w {
     color: #24292f;
-    background-color: #f6f8fa;
+    // background-color: #f6f8fa;
+    background-color: #f7f7f7;
   }
 
   .highlight .k,
@@ -174,7 +176,7 @@
   }
 
   .highlight .na {
-    color: #116329;
+    color: #008080;
   }
 
   .highlight .nt {
@@ -257,7 +259,7 @@
   .highlight .sx,
   .highlight .s1,
   .highlight .ss {
-    color: #0a3069;
+    color: #d01040;
   }
 
   .highlight .nd {
@@ -266,7 +268,7 @@
 
   .highlight .nf,
   .highlight .fm {
-    color: #8250df;
+    color: #689fe3;
   }
 
   .highlight .err {
